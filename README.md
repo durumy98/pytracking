@@ -1,4 +1,4 @@
-# PyTracking
+# PyTracking BHK
 A general python framework for visual object tracking and video object segmentation, based on **PyTorch**.
 
 ### LWL and KYS released!
